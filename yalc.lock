@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "pnpm-plugin": {
+      "signature": "6877b6fb51f32b59e30db850179a7a66",
+      "file": true
+    }
+  }
+}
