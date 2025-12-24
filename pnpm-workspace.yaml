@@ -1,0 +1,14 @@
+packages:
+  - "apps/*"
+
+overrides:
+  "medusa-next>@types/react": "19.0.3"
+  "medusa-next>@types/react-dom": "19.0.3"
+  "medusa-next>react": "19.0.3"
+  "medusa-next>react-dom": "19.0.3"
+
+publicHoistPattern:
+  - "*@medusajs/*"
+  - "@tanstack/react-query"
+  - "react-i18next"
+  - "react-router-dom"
